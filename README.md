@@ -12,7 +12,7 @@ ALX Cohort 9![image](https://user-images.githubusercontent.com/105258746/1899623
 `Don’t worry about going mental. You’re a C programmer. You’re already mental.` 😅
 
 
-As a bonus, talking through your code also helps you identify which portions need to have comments and what the comments should be.
+As a bonus, talking through your code also helps you identify which portions need to have comments and what the comments should be
 
 
 # Content
